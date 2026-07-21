@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-92a032.aggieretreat.com/sitemap.xml
